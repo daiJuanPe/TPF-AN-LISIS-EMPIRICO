@@ -1,7 +1,8 @@
 Título del proyecto: Análisis de la eficiencia algorítmica en Python
 Alumnos:
 Daiana Betsabé Peña Juan 
-Ezequiel Pereyra 
+Ezequiel Pereyra
+Damián Portillo 
 Materia: Programación I
 Profesor: Prof. Nicolás Quirós
 Tutora: Carla Bustos
